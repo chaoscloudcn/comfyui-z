@@ -47,6 +47,11 @@ ComfyUI-Manageran.py 自动获取 D:\ComfyUI-2025-11-19\ComfyUI\custom_nodes\req
 打印显示 To see the GUI go to: http://127.0.0.1:8188
 复制 http://127.0.0.1:8188 浏览器访问就可以了 这里没做IE弹出
 -----------------------------------------------------------------
-接下来是自己安装所需要的插件
+初始安装就到这里，接下来是自己安装所需要的插件
+浏览器访问 http://127.0.0.1:8188 先在安装ComfyUI界面汉化插件
+使用 ComfyUI Manager 安装插件
+搜索 ComfyUI-DD-Translation 然后正常 安装 重启ComfyUI，自动安装下载依赖
+-----------------------------------------------------------------
+
 -----------------------------------------------------------------
 ![图片描述](https://github.com/chaoscloudcn/comfyui-dependency-checker/blob/main/20250630173445.png?raw=true)
