@@ -52,6 +52,20 @@ ComfyUI-Manageran.py 自动获取 D:\ComfyUI-2025-11-19\ComfyUI\custom_nodes\req
 使用 ComfyUI Manager 安装插件
 搜索 ComfyUI-DD-Translation 然后正常 安装 重启ComfyUI，自动安装下载依赖
 -----------------------------------------------------------------
-
+推荐安装常用插件
+comfyui_controlnet_aux
+comfyui_custom_nodes_alekpet
+comfyui_ipadapter_plus
+comfyui_ultimatesdupscale
+comfyui-custom-scripts
+ComfyUI-DD-Translation
+ComfyUI-GGUF
+comfyui-ic-light
+ComfyUI-Impact-Pack
+ComfyUI-Inspire-Pack
+ComfyUI-JoyCaption
+comfyui-kjnodes
+ComfyUI-layerdiffuse
+ComfyUI-Manager
 -----------------------------------------------------------------
 ![图片描述](https://github.com/chaoscloudcn/comfyui-dependency-checker/blob/main/20250630173445.png?raw=true)
