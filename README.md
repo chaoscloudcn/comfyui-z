@@ -109,5 +109,8 @@ ComfyUI-layerdiffuse
 
 ComfyUI-Manager
 
+Comfyui_LG_Tools
+
+
 -----------------------------------------------------------------
 ![图片描述](https://github.com/chaoscloudcn/comfyui-dependency-checker/blob/main/20250630173445.png?raw=true)
