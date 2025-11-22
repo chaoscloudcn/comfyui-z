@@ -1,0 +1,7 @@
+下载地址：
+
+https://mirrors.tuna.tsinghua.edu.cn/github-release/git-for-windows/git/Git%20for%20Windows%20v2.52.0.windows.1/Git-2.52.0-64-bit.tar.bz2
+
+解压到根目录 Git-2.52.0-64-bit.tar.bz2 
+
+修改目录名称 git
